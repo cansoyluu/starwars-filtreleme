@@ -1,0 +1,20 @@
+body {
+  background-image: url(assets/image/stars.jpg);
+}
+img {
+  width: 300px;
+  height: 400px;
+  object-fit: contain;
+}
+.pageButton {
+  justify-content: center;
+  text-align: center;
+  margin-top: 2rem;
+  display: inline-table;
+  font-weight: 600;
+}
+#filter-btn {
+  text-align: start;
+  display: inline-table;
+  font-weight: 600;
+}
